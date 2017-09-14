@@ -15,3 +15,14 @@ Overpass() query should consist following features:
 
 Рівнинна місцевість  
 > рівнина - `natural=valley`  
+
+
+Water Objects
+> linear rivers - `waterway=river`  
+> areal rivers - `[natural=water] + [water=river]`  
+> for combining river objects use `relation=waterway`
+> lakes - `[natural=water] + [water=lake]`  
+
+other:  
+desert - `natural=desert` - in discussion  
+plateau - `[natural=landform] + [landform=plateau]`- in discussion  
