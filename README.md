@@ -14,4 +14,4 @@ Overpass() query should consist following features:
 > хребет - `natural=ridge`  
 
 Рівнинна місцевість  
-> рівнина - `natural=valey`  
+> рівнина - `natural=valley`  
