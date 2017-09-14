@@ -20,7 +20,7 @@ Overpass() query should consist following features:
 Water Objects
 > linear rivers - `waterway=river`  
 > areal rivers - `[natural=water] + [water=river]`  
-> for combining river objects use `relation=waterway`
+> for combining river objects use `relation=waterway`  
 > lakes - `[natural=water] + [water=lake]`  
 
 other:  
